@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MissingSocks.aternos.me:64588",
+    "ip": "MissingSocks.aternos.me",
     "port": 64588,
     "version": "26.1.2",
     "try-creative": false
